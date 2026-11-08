@@ -20,7 +20,7 @@ python demo_servicios.py
 | Integrante | Responsabilidad | Usuario GitHub |
 |---|---|---|
 | Kevin David Rojas Ibarra | Clase abstracta `Servicio` + 3 servicios hijos | (completar) |
-| (Integrante 2) | Entidad abstracta + clase `Cliente` | (completar) |
+| Arleth Juliana Ramirez Huertas | Entidad abstracta + clase `Cliente` | Entregado |
 | (Integrante 3) | Clase `Reserva` | (completar) |
 | (Integrante 4) | Excepciones y logs / integración | (completar) |
 | (Integrante 5) | `main.py` con 10+ operaciones, README y pruebas | (completar) |
